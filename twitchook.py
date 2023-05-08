@@ -77,7 +77,7 @@ while True:
             previous_stream_id = ""
             message = {
                 "username": "Twitch Notification Tool",
-                "avatar_url": "https://i.pinimg.com/564x/53/89/b3/5389b33208ada20b074a9c5b6723f662.jpg",
+                "avatar_url": "https://i.pinimg.com/564x/3f/44/3a/3f443ad4508b8a45106c9ac08f11798d.jpg",
                 "embeds": [
                     {
                         "author": {
